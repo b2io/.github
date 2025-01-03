@@ -1,6 +1,6 @@
-# Base2.io
+# Base Two
 
-Base2.io is a leading software consultancy that specializes in delivering innovative solutions. We build software that helps real people solve real problems with greater ease through a flexible approach that prioritizes you and your end-user. We're here to assist you with your software needs. 
+Base Two is a leading software consultancy that specializes in delivering innovative solutions. We build software that helps real people solve real problems with greater ease through a flexible approach that prioritizes you and your end-user. We're here to assist you with your software needs. 
 
 Please feel free to reach out to us for inquiries, collaborations, or any questions you may have:
 
